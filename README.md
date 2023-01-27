@@ -24,7 +24,13 @@ http://localhost:8000
 
 ## Run API REST with Node :package:
 
+## Install npm modules
+
 In the project directory, you can run:
+
+### `npm install`
+
+Then in the project directory, you can run:
 
 ### `npm run start`
 
